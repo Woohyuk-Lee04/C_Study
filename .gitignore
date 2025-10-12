@@ -1,0 +1,12 @@
+# Ignore build outputs
+*.o
+*.out
+*.exe
+linkedlist_basic
+*.dSYM/
+
+# macOS system files
+.DS_Store
+
+# VSCode config (optional)
+.vscode/
