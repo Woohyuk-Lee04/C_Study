@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/woohyuklee/Desktop/Comp/Linkedlist/linkedlist_basic'
+relocations:     []
+...
