@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore build outputs
 *.o
 *.out
@@ -10,3 +11,10 @@ linkedlist_basic
 
 # VSCode config (optional)
 .vscode/
+=======
+*.dSYM/
+*.out
+*.o
+*.exe
+.vscode/
+>>>>>>> 2c52d99 (Add .gitignore to exclude build and IDE files)
